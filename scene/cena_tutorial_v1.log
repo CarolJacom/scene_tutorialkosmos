@@ -1,0 +1,2194 @@
+Exporter version: 2.93.1, Blender version: 2.93.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Caroline Jacomini\Documents\KOSMOS\CENA_TUTORIAL\to_babylon\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  obj_counter
+		processing begun of material:  m_color_1
+		processing begun of material:  m_kosmos_purple
+		processing begun of material:  m_glass
+		processing begun of material:  m_sideglass
+			processing texture t_kosmos_purple
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_kosmos_purple
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#0
+		num positions      :  164
+		num normals        :  164
+		num tangents       :  0
+		num uvs            :  328
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  66
+	processing begun of mesh:  art_logo_1
+		processing begun of material:  m_logok
+			processing texture t_logokosmos
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_logokosmos
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_logo_2
+		processing begun of material:  m_logok
+		registered as also a user of material:  m_logok
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_logo_3
+		processing begun of material:  m_kosmosext
+			processing texture t_logoextend
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_logoextend
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_wallstand_2
+		processing begun of material:  m_color_1
+		processing begun of material:  m_kosmos_purple
+		registered as also a user of material:  m_color_1
+		registered as also a user of material:  m_kosmos_purple
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#1
+		num positions      :  227
+		num normals        :  227
+		num tangents       :  0
+		num uvs            :  454
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  110
+	processing begun of mesh:  obj_floorstand_2
+		processing begun of material:  m_kosmos_purple
+		registered as also a user of material:  m_kosmos_purple
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  18
+	processing begun of mesh:  art_card_1
+		processing begun of material:  m_card_1
+			processing texture t_cartao
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_cartao
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  obj_suportcard
+		processing begun of material:  m_metal
+			processing texture t_dirtymetal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  147
+		num normals        :  147
+		num tangents       :  0
+		num uvs            :  294
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  76
+	processing begun of mesh:  art_card_small_1
+		processing begun of material:  m_card_1
+		registered as also a user of material:  m_card_1
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  arw_card_1
+		animation processing begun
+			processing action arw_laptopAction.002:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+			processing texture t_arrow_pink
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_arrow_pink
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_paper1_1
+		processing begun of material:  m_paper_1
+			processing texture t_paper
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  obj_paper2_1
+		processing begun of material:  m_paper2
+			processing texture t_paper2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  49
+		num normals        :  49
+		num tangents       :  0
+		num uvs            :  98
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  30
+	processing begun of mesh:  obj_chair_kosmos_1
+		processing begun of material:  m_chairkosmos
+			processing texture t_chair_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_chairpurple
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1365
+		num normals        :  1365
+		num tangents       :  0
+		num uvs            :  2730
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1804
+	processing begun of mesh:  obj_chair_kosmos_2
+		mesh is an instance of :  obj_chair_kosmos_1.  Processing halted.
+	processing begun of mesh:  obj_chair_kosmos_3
+		mesh is an instance of :  obj_chair_kosmos_1.  Processing halted.
+	processing begun of mesh:  art_pdf_1
+		processing begun of material:  m_pdf_1
+			processing texture t_pdf
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_pdf
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  obj_paperholder_1
+		processing begun of material:  m_glass2
+		num positions      :  458
+		num normals        :  458
+		num tangents       :  0
+		num uvs            :  916
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  212
+	processing begun of mesh:  obj_paper_1
+		processing begun of material:  m.paperpdf
+		num positions      :  214
+		num normals        :  214
+		num tangents       :  0
+		num uvs            :  428
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  98
+	processing begun of mesh:  obj_table_1
+		processing begun of material:  m_glass
+		processing begun of material:  m_sideglass
+		registered as also a user of material:  m_glass
+		registered as also a user of material:  m_sideglass
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#2
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  obj_tablesup_1
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  203
+		num normals        :  203
+		num tangents       :  0
+		num uvs            :  406
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  88
+	processing begun of mesh:  arw_pdf_1
+		animation processing begun
+			processing action arw_laptopAction.004:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_tablecommon_1
+		processing begun of material:  m_tablecommon_b
+			processing texture t_tablecommon_b
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1220
+		num normals        :  1220
+		num tangents       :  0
+		num uvs            :  2440
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1032
+	processing begun of mesh:  obj_tablet_1
+		processing begun of material:  m_black
+		processing begun of material:  m_chrome
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#3
+		num positions      :  632
+		num normals        :  632
+		num tangents       :  0
+		num uvs            :  1264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  272
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  art_chat_1
+		processing begun of material:  m_chat
+			processing texture t_chat
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_chat
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_floorstand_5
+		processing begun of material:  m_kosmos_purple
+		registered as also a user of material:  m_kosmos_purple
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  arw_chat_1
+		animation processing begun
+			processing action arw_laptopAction.006:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_table_2
+		processing begun of material:  m_glass
+		processing begun of material:  m_sideglass
+		registered as also a user of material:  m_glass
+		registered as also a user of material:  m_sideglass
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#4
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  obj_tablesup_2
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  200
+		num normals        :  200
+		num tangents       :  0
+		num uvs            :  400
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  88
+	processing begun of mesh:  obj_chair_kosmos_4
+		mesh is an instance of :  obj_chair_kosmos_1.  Processing halted.
+	processing begun of mesh:  obj_cup_1
+		processing begun of material:  m_ceramic
+		num positions      :  210
+		num normals        :  210
+		num tangents       :  0
+		num uvs            :  420
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  410
+	processing begun of mesh:  obj_cup_2
+		mesh is an instance of :  obj_cup_1.  Processing halted.
+	processing begun of mesh:  obj_laptop_2
+		processing begun of material:  m_chrome
+		processing begun of material:  m_black
+		processing begun of material:  m_keyboard
+		registered as also a user of material:  m_chrome
+		registered as also a user of material:  m_black
+			processing texture t_keyboard
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#5
+		num positions      :  1680
+		num normals        :  1680
+		num tangents       :  0
+		num uvs            :  3360
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1240
+	processing begun of mesh:  art_link_1
+		processing begun of material:  m_linksite
+			processing texture t_link
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_link
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_wallstand_3
+		processing begun of material:  m_color_1
+		processing begun of material:  m_kosmos_purple
+		registered as also a user of material:  m_color_1
+		registered as also a user of material:  m_kosmos_purple
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#6
+		num positions      :  145
+		num normals        :  145
+		num tangents       :  0
+		num uvs            :  290
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  66
+	processing begun of mesh:  obj_floorstand_3
+		processing begun of material:  m_kosmos_purple
+		registered as also a user of material:  m_kosmos_purple
+		num positions      :  9
+		num normals        :  9
+		num tangents       :  0
+		num uvs            :  18
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  arw_link_1
+		animation processing begun
+			processing action arw_laptopAction.008:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_wallstand_1
+		processing begun of material:  m_color_1
+		processing begun of material:  m_kosmos_purple
+		registered as also a user of material:  m_color_1
+		registered as also a user of material:  m_kosmos_purple
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#7
+		num positions      :  130
+		num normals        :  130
+		num tangents       :  0
+		num uvs            :  260
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  60
+	processing begun of mesh:  obj_tv_1
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  84
+		num normals        :  84
+		num tangents       :  0
+		num uvs            :  168
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  34
+	processing begun of mesh:  art_video_1
+		processing begun of material:  m_video_1
+			processing texture t_videostand
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_videostand
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_sofa_1
+		processing begun of material:  m_fabric
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_fabric
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  416
+		num normals        :  416
+		num tangents       :  0
+		num uvs            :  832
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  376
+	processing begun of mesh:  obj_sofabase_1
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  112
+		num normals        :  112
+		num tangents       :  0
+		num uvs            :  224
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  obj_sofabase_2
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  448
+		num normals        :  448
+		num tangents       :  0
+		num uvs            :  896
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  obj_sofa_3
+		mesh is an instance of :  obj_sofa_1.  Processing halted.
+	processing begun of mesh:  obj_sofa_2
+		mesh is an instance of :  obj_sofa_1.  Processing halted.
+	processing begun of mesh:  obj_floorstand_1
+		processing begun of material:  m_kosmos_purple
+		registered as also a user of material:  m_kosmos_purple
+		num positions      :  10
+		num normals        :  10
+		num tangents       :  0
+		num uvs            :  20
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  arw_video_1
+		animation processing begun
+			processing action arw_laptopAction.010:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_counter_2
+		mesh is an instance of :  obj_counter.  Processing halted.
+	processing begun of mesh:  art_logo_4
+		processing begun of material:  m_logok
+		registered as also a user of material:  m_logok
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_logo_5
+		processing begun of material:  m_logok
+		registered as also a user of material:  m_logok
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_logo_6
+		processing begun of material:  m_kosmosext
+		registered as also a user of material:  m_kosmosext
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_wallstand_4
+		mesh is an instance of :  obj_wallstand_2.  Processing halted.
+	processing begun of mesh:  obj_floorstand_5.001
+		mesh is an instance of :  obj_floorstand_2.  Processing halted.
+	processing begun of mesh:  art_card_2
+		processing begun of material:  m_card_1
+		registered as also a user of material:  m_card_1
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  obj_suportcard_2
+		mesh is an instance of :  obj_suportcard.  Processing halted.
+	processing begun of mesh:  art_card_small_2
+		processing begun of material:  m_card_1
+		registered as also a user of material:  m_card_1
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  arw_card_2
+		animation processing begun
+			processing action arw_laptopAction.012:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_paper1_2
+		mesh is an instance of :  obj_paper1_1.  Processing halted.
+	processing begun of mesh:  obj_paper2_2
+		mesh is an instance of :  obj_paper2_1.  Processing halted.
+	processing begun of mesh:  obj_chair_kosmos_5
+		mesh is an instance of :  obj_chair_kosmos_1.  Processing halted.
+	processing begun of mesh:  obj_chair_kosmos_6
+		mesh is an instance of :  obj_chair_kosmos_1.  Processing halted.
+	processing begun of mesh:  obj_chair_kosmos_7
+		mesh is an instance of :  obj_chair_kosmos_1.  Processing halted.
+	processing begun of mesh:  art_pdf_2
+		processing begun of material:  m_pdf_1
+		registered as also a user of material:  m_pdf_1
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  obj_paperholder_2
+		mesh is an instance of :  obj_paperholder_1.  Processing halted.
+	processing begun of mesh:  obj_paper_2
+		mesh is an instance of :  obj_paper_1.  Processing halted.
+	processing begun of mesh:  obj_table_3
+		mesh is an instance of :  obj_table_1.  Processing halted.
+	processing begun of mesh:  obj_tablesup_3
+		mesh is an instance of :  obj_tablesup_1.  Processing halted.
+	processing begun of mesh:  arw_pdf_2
+		animation processing begun
+			processing action arw_laptopAction.014:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_table_4
+		mesh is an instance of :  obj_table_2.  Processing halted.
+	processing begun of mesh:  obj_tablesup_4
+		mesh is an instance of :  obj_tablesup_2.  Processing halted.
+	processing begun of mesh:  obj_chair_kosmos_8
+		mesh is an instance of :  obj_chair_kosmos_1.  Processing halted.
+	processing begun of mesh:  obj_cup_3
+		mesh is an instance of :  obj_cup_1.  Processing halted.
+	processing begun of mesh:  obj_cup_4
+		mesh is an instance of :  obj_cup_1.  Processing halted.
+	processing begun of mesh:  obj_laptop_3
+		mesh is an instance of :  obj_laptop_2.  Processing halted.
+	processing begun of mesh:  art_link_2
+		processing begun of material:  m_linksite
+		registered as also a user of material:  m_linksite
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_wallstand_5
+		mesh is an instance of :  obj_wallstand_3.  Processing halted.
+	processing begun of mesh:  obj_floorstand_4
+		mesh is an instance of :  obj_floorstand_3.  Processing halted.
+	processing begun of mesh:  arw_link_2
+		animation processing begun
+			processing action arw_laptopAction.018:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_smallcube_40
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+			processing texture t_colorled
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_colorled
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			processing texture t_mediumcube
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_mediumcube
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#8
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_chair_85
+		processing begun of material:  m_white
+		processing begun of material:  m_metal
+			processing texture t_dirtymetal
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		registered as also a user of material:  m_metal
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#9
+		num positions      :  326
+		num normals        :  326
+		num tangents       :  0
+		num uvs            :  652
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  156
+	processing begun of mesh:  obj_chair_13
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_14
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_15
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_16
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_39
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_2
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_22
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_23
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_36
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_25
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_27
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_28
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_3
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_32
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_smallcube_33
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_37
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_35
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_39
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_41
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_44
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_45
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_46
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_47
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_48
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_49
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_50
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_55
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_56
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_57
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_58
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_30
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_6
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_60
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_61
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_smallcube_26
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_smallcube_27
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_69
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_7
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_29
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_71
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_72
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_77
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_78
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_79
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_80
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_24
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_smallcube_25
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_83
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_23
+		animation processing begun
+			processing action obj_smallcube_low:  in[1 - 200], out[0 - 200]
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_84
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_86
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_19
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_87
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_18
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_88
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_9
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_17
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_89
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_900
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_91
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_92
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_93
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_22
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_94
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_14
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_95
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_96
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_97
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_10
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_12
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_98
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_99
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_11
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_100
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_101
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_21
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_102
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_103
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_104
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_9
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_105
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_11
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_106
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_107
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_108
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_109
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_110
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_12
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_111
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_7
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_112
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_3
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_smallcube_4
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_chair_113
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_114
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_chair_115
+		mesh is an instance of :  obj_chair_85.  Processing halted.
+	processing begun of mesh:  obj_smallcube_6
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_idea_mp
+		processing begun of material:  m_logok
+		registered as also a user of material:  m_logok
+		WARNING: Basis key missing, shape-key processing NOT performed
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  obj_idea_mp_holo
+		WARNING: No materials have been assigned: 
+		WARNING: Basis key missing, shape-key processing NOT performed
+		num positions      :  3556
+		num normals        :  3556
+		num tangents       :  0
+		num uvs            :  7112
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1374
+		WARNING: # of 0 area faces found:  56
+	processing begun of mesh:  obj_idea_mp_2
+		mesh is an instance of :  obj_idea_mp.  Processing halted.
+	processing begun of mesh:  obj_idea_mp_holo_2
+		mesh is an instance of :  obj_idea_mp_holo.  Processing halted.
+	processing begun of mesh:  obj_worldcube_1
+		processing begun of material:  m_whitebox
+			processing texture t_whitebox_kosmos
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_whitebox_kosmos_op
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  obj_worldcube_3
+		mesh is an instance of :  obj_worldcube_1.  Processing halted.
+	processing begun of mesh:  obj_worldcube_2
+		mesh is an instance of :  obj_worldcube_1.  Processing halted.
+	processing begun of mesh:  obj_corner_2
+		processing begun of material:  m_glasstunel
+			processing texture t_metalbars
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  200
+		num normals        :  200
+		num tangents       :  0
+		num uvs            :  400
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  256
+	processing begun of mesh:  obj_corner_3
+		processing begun of material:  m_glasstunel
+		registered as also a user of material:  m_glasstunel
+		num positions      :  265
+		num normals        :  265
+		num tangents       :  0
+		num uvs            :  530
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  286
+	processing begun of mesh:  obj_tunelwide
+		processing begun of material:  m_glasstunel
+		registered as also a user of material:  m_glasstunel
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  0
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  128
+	processing begun of mesh:  obj_corner_1
+		mesh is an instance of :  obj_corner_2.  Processing halted.
+	processing begun of mesh:  obj_tunel_corner_1
+		mesh is an instance of :  obj_corner_2.  Processing halted.
+	processing begun of mesh:  obj_corner_4
+		mesh is an instance of :  obj_corner_2.  Processing halted.
+	processing begun of mesh:  obj_structure_1
+		processing begun of material:  m_dmetal
+		processing begun of material:  m_metal
+			processing texture t_block
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  m_metal
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#10
+		num positions      :  284
+		num normals        :  284
+		num tangents       :  0
+		num uvs            :  568
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  128
+	processing begun of mesh:  obj_loop_1
+		processing begun of material:  m_dmetal
+		registered as also a user of material:  m_dmetal
+		num positions      :  515
+		num normals        :  515
+		num tangents       :  0
+		num uvs            :  1030
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  256
+	processing begun of mesh:  obj_tunel_1
+		processing begun of material:  m_glasstunel
+		registered as also a user of material:  m_glasstunel
+		num positions      :  70
+		num normals        :  70
+		num tangents       :  0
+		num uvs            :  140
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  64
+	processing begun of mesh:  obj_loop_2
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_3
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_tunel_2
+		mesh is an instance of :  obj_tunel_1.  Processing halted.
+	processing begun of mesh:  obj_loop_4
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_5
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_6
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_7
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_8
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_9
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_tunel_3
+		mesh is an instance of :  obj_tunel_1.  Processing halted.
+	processing begun of mesh:  obj_loop_10
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_tunel_4
+		mesh is an instance of :  obj_tunel_1.  Processing halted.
+	processing begun of mesh:  obj_tunel_5
+		mesh is an instance of :  obj_tunel_1.  Processing halted.
+	processing begun of mesh:  obj_tunel_7
+		mesh is an instance of :  obj_tunel_1.  Processing halted.
+	processing begun of mesh:  obj_tunel_8
+		mesh is an instance of :  obj_tunel_1.  Processing halted.
+	processing begun of mesh:  obj_tunel_9
+		mesh is an instance of :  obj_tunel_1.  Processing halted.
+	processing begun of mesh:  obj_tunel_10
+		mesh is an instance of :  obj_tunel_1.  Processing halted.
+	processing begun of mesh:  obj_loop_11
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_12
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_13
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_14
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_15
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_16
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_17
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_18
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_19
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_20
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_21
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_22
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_23
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_24
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_25
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_26
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_27
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_28
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_29
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_30
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_31
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loop_32
+		mesh is an instance of :  obj_loop_1.  Processing halted.
+	processing begun of mesh:  obj_loopwide_1
+		processing begun of material:  m_dmetal
+		registered as also a user of material:  m_dmetal
+		num positions      :  554
+		num normals        :  554
+		num tangents       :  0
+		num uvs            :  1108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  256
+	processing begun of mesh:  obj_loopwide_2
+		mesh is an instance of :  obj_loopwide_1.  Processing halted.
+	processing begun of mesh:  obj_structure_2
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_structure_3
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_structure_4
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_structure_5
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_structure_6
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_structure_7
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_structure_8
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_structure_9
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_structure_10
+		mesh is an instance of :  obj_structure_1.  Processing halted.
+	processing begun of mesh:  obj_centralstation
+		animation processing begun
+			processing action rotate2:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_boards
+		processing begun of material:  m_black
+		processing begun of material:  m_logok
+			processing texture t_block
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  m_black
+		registered as also a user of material:  m_logok
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#11
+		num positions      :  1189
+		num normals        :  1189
+		num tangents       :  0
+		num uvs            :  2378
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  552
+	processing begun of mesh:  obj_earth
+		processing begun of material:  m_earth
+			processing texture t_earth
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_earth
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  525
+		num normals        :  525
+		num tangents       :  0
+		num uvs            :  1050
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  956
+	processing begun of mesh:  obj_galaxy
+		processing begun of material:  m_space_nx
+		processing begun of material:  m_space_ny
+		processing begun of material:  m_space_px
+		processing begun of material:  m_space_py
+		processing begun of material:  m_space_pz
+		processing begun of material:  m_space_nz
+			processing texture t_cube_nx
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_cube_nx
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			processing texture t_cube_ny
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_cube_ny
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			processing texture t_cube_px
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_cube_px
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			processing texture t_cube_py
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_cube_py
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			processing texture t_cube_pz
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_cube_pz
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			processing texture t_cube_nz
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_cube_nz
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#12
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  obj_fullcube_an_1
+		animation processing begun
+			processing action rotate:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_fullcube
+		processing begun of material:  m_led_side
+			processing texture t_fullcube
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_fullcube
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		registered as also a user of material:  m_led_side
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#13
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_43
+		animation processing begun
+			processing action obj_smallcube:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#14
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_44
+		animation processing begun
+			processing action obj_smallcube:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#15
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_fullcube_an_2
+		animation processing begun
+			processing action rotate:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_fullcube
+		processing begun of material:  m_led_side
+		registered as also a user of material:  m_fullcube
+		registered as also a user of material:  m_led_side
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#16
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_38
+		animation processing begun
+			processing action obj_smallcube_low:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#17
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_34
+		animation processing begun
+			processing action obj_smallcube_low:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#18
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_42
+		animation processing begun
+			processing action obj_smallcube_low:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#19
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_28
+		animation processing begun
+			processing action obj_smallcube_low:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#20
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_20
+		animation processing begun
+			processing action obj_smallcube_low:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#21
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_13
+		animation processing begun
+			processing action obj_smallcube_low:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#22
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_5
+		animation processing begun
+			processing action obj_smallcube_low:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#23
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_37
+		animation processing begun
+			processing action obj_smallcube_low_2:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#24
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_31
+		animation processing begun
+			processing action obj_smallcube_low_2:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#25
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_16
+		animation processing begun
+			processing action obj_smallcube_low_2:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#26
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_15
+		animation processing begun
+			processing action obj_smallcube_low_2:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#27
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_10
+		animation processing begun
+			processing action obj_smallcube_low_2:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#28
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_8
+		animation processing begun
+			processing action obj_smallcube_low_2:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#29
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_45
+		animation processing begun
+			processing action obj_smallcube:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#30
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_smallcube_46
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_fullcube_an_4
+		animation processing begun
+			processing action rotate:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_fullcube
+		processing begun of material:  m_led_side
+		registered as also a user of material:  m_fullcube
+		registered as also a user of material:  m_led_side
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#31
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_fullcube_an_3
+		animation processing begun
+			processing action rotate:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_fullcube
+		processing begun of material:  m_led_side
+		registered as also a user of material:  m_fullcube
+		registered as also a user of material:  m_led_side
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#32
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_rocket
+		animation processing begun
+			processing action obj_rocketaction:  in[1 - 199], out[0 - 199]
+		processing begun of material:  m_boards
+		processing begun of material:  m_black
+		registered as also a user of material:  m_boards
+		registered as also a user of material:  m_black
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#33
+		num positions      :  565
+		num normals        :  565
+		num tangents       :  0
+		num uvs            :  1130
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  232
+	processing begun of mesh:  obj_smallcube_2
+		animation processing begun
+			processing action obj_smallcube:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_led_side
+		processing begun of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#34
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_mediumcube_1
+		animation processing begun
+			processing action obj_medium_cube_h:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_mediumcube
+		processing begun of material:  m_led_side
+		registered as also a user of material:  m_mediumcube
+		registered as also a user of material:  m_led_side
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#35
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_portal_1
+		animation processing begun
+			processing action portalrotate:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_lightled
+			processing texture t_logocircle
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_logocircle
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		WARNING: Basis key missing, shape-key processing NOT performed
+		num positions      :  64
+		num normals        :  64
+		num tangents       :  0
+		num uvs            :  128
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  62
+	processing begun of mesh:  obj_portal_2
+		animation processing begun
+			processing action portalrotate:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_lightled
+		registered as also a user of material:  m_lightled
+		WARNING: Basis key missing, shape-key processing NOT performed
+		num positions      :  64
+		num normals        :  64
+		num tangents       :  0
+		num uvs            :  128
+		num uvs2           :  128
+		num colors         :  0
+		num triangles      :  62
+	processing begun of mesh:  obj_portal_3
+		animation processing begun
+			processing action portalrotate:  in[1 - 200], out[0 - 200]
+		processing begun of material:  m_lightled
+		registered as also a user of material:  m_lightled
+		WARNING: Basis key missing, shape-key processing NOT performed
+		num positions      :  64
+		num normals        :  64
+		num tangents       :  0
+		num uvs            :  128
+		num uvs2           :  128
+		num colors         :  0
+		num triangles      :  62
+	processing begun of mesh:  obj_shaderalpha_1
+		processing begun of material:  m_shaderalpha
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  obj_shader_1
+		WARNING: No materials have been assigned: 
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  obj_window_1
+		processing begun of material:  m_dmetal
+		processing begun of material:  m_glass
+		registered as also a user of material:  m_dmetal
+		registered as also a user of material:  m_glass
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#36
+		num positions      :  669
+		num normals        :  669
+		num tangents       :  0
+		num uvs            :  1338
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  302
+	processing begun of mesh:  obj_window_2
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_3
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_4
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_5
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_11
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_12
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_13
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_14
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_15
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_6
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_7
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_8
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_9
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_10
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_16
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_17
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_18
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_19
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_20
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_21
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_22
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_23
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_24
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_25
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_window_26
+		mesh is an instance of :  obj_window_1.  Processing halted.
+	processing begun of mesh:  obj_shaderalpha_2
+		processing begun of material:  m_shaderalpha
+		registered as also a user of material:  m_shaderalpha
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  0
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  obj_shader_2
+		WARNING: No materials have been assigned: 
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  obj_hdrifake
+		processing begun of material:  m_city
+			processing texture t_background
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_background
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  117
+		num normals        :  117
+		num tangents       :  0
+		num uvs            :  234
+		num uvs2           :  0
+		num colors         :  468
+		num triangles      :  192
+	processing begun of mesh:  obj_fullcube_1
+		processing begun of material:  m_fullcube
+		processing begun of material:  m_led_side
+		registered as also a user of material:  m_fullcube
+		registered as also a user of material:  m_led_side
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#37
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_mediumcube_4
+		mesh is an instance of :  obj_mediumcube_1.  Processing halted.
+	processing begun of mesh:  obj_smallcube_1
+		mesh is an instance of :  obj_smallcube_40.  Processing halted.
+	processing begun of mesh:  obj_roof_2
+		processing begun of material:  m_whitebox
+		registered as also a user of material:  m_whitebox
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  obj_walls_1
+		processing begun of material:  m_whitebox
+		registered as also a user of material:  m_whitebox
+		num positions      :  394
+		num normals        :  394
+		num tangents       :  0
+		num uvs            :  788
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  448
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  obj_roof_1
+		processing begun of material:  m_whitebox
+		registered as also a user of material:  m_whitebox
+		num positions      :  180
+		num normals        :  180
+		num tangents       :  0
+		num uvs            :  360
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  282
+	processing begun of mesh:  obj_structurestage
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  181
+		num normals        :  181
+		num tangents       :  0
+		num uvs            :  362
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  88
+	processing begun of mesh:  obj_floor_1
+		processing begun of material:  m_whitebox
+		registered as also a user of material:  m_whitebox
+		num positions      :  190
+		num normals        :  190
+		num tangents       :  0
+		num uvs            :  380
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  286
+	processing begun of mesh:  obj_laptop
+		mesh is an instance of :  obj_laptop_2.  Processing halted.
+	processing begun of mesh:  obj_wall_2
+		processing begun of material:  m_whitebox
+		processing begun of material:  m_wallmetal
+		registered as also a user of material:  m_whitebox
+			processing texture t_metalbars
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#38
+		num positions      :  172
+		num normals        :  172
+		num tangents       :  0
+		num uvs            :  344
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  82
+	processing begun of mesh:  obj_floormarble_2
+		processing begun of material:  m_floormarble
+		processing begun of material:  m_whitebox
+			processing texture t_marble_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_marblegrey
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  m_whitebox
+		processing begun of multimaterial:  cena_tutorial_v1.Multimaterial#39
+		num positions      :  271
+		num normals        :  271
+		num tangents       :  0
+		num uvs            :  542
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  362
+	processing begun of mesh:  obj_floor_2
+		processing begun of material:  m_whitebox
+		registered as also a user of material:  m_whitebox
+		num positions      :  103
+		num normals        :  103
+		num tangents       :  0
+		num uvs            :  206
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  56
+	processing begun of mesh:  obj_wallmetal_2
+		processing begun of material:  m_wallmetal
+		registered as also a user of material:  m_wallmetal
+		num positions      :  222
+		num normals        :  222
+		num tangents       :  0
+		num uvs            :  444
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  206
+	processing begun of mesh:  obj_ceiling_2
+		processing begun of material:  m_white
+		registered as also a user of material:  m_white
+		num positions      :  286
+		num normals        :  286
+		num tangents       :  0
+		num uvs            :  572
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  392
+	processing begun of mesh:  obj_glowboxes_1
+		processing begun of material:  m_led_side
+		registered as also a user of material:  m_led_side
+		num positions      :  1531
+		num normals        :  1531
+		num tangents       :  0
+		num uvs            :  3062
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  704
+	processing begun of mesh:  obj_eletricwall
+		processing begun of material:  m_shadercol
+			processing texture t_collision
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_collision
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_glowboxes_2
+		processing begun of material:  m_led_side
+		registered as also a user of material:  m_led_side
+		num positions      :  264
+		num normals        :  264
+		num tangents       :  0
+		num uvs            :  528
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  112
+	processing begun of mesh:  obj_mediumcube_2
+		mesh is an instance of :  obj_mediumcube_1.  Processing halted.
+	processing begun of mesh:  obj_mediumcube_3
+		mesh is an instance of :  obj_mediumcube_1.  Processing halted.
+	processing begun of mesh:  art_link_initial
+		processing begun of material:  m_linksite
+		registered as also a user of material:  m_linksite
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_video_aud
+		processing begun of material:  m_videostage
+			processing texture t_videostand
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_videostand
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  btn_auditorium
+		processing begun of material:  m_buttonauditorium
+			processing texture t_btn_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_btn_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  arw_laptop
+		animation processing begun
+			processing action arw_laptopAction:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  arw_button
+		animation processing begun
+			processing action arw_laptopAction:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  arw_auditorium
+		animation processing begun
+			processing action arw_laptopAction:  in[0 - 200], out[0 - 200]
+		processing begun of material:  m_arrowrot
+		registered as also a user of material:  m_arrowrot
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_trg_auditorium
+		processing begun of material:  m_collisionbutton
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_floor_start
+		processing begun of material:  m_collisionfloor
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  34
+		WARNING: # of 0 area faces found:  1
+	processing begun of mesh:  col_tel_start
+		processing begun of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_wall_start
+		processing begun of material:  m_collisionwall
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  24
+	processing begun of mesh:  col_tel_auditorium
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_pavilion
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_stand_1
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_stand_2
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_floor_auditorium
+		processing begun of material:  m_collisionfloor
+		registered as also a user of material:  m_collisionfloor
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_wall_auditorium
+		processing begun of material:  m_collisionwall
+		registered as also a user of material:  m_collisionwall
+		num positions      :  17
+		num normals        :  17
+		num tangents       :  0
+		num uvs            :  34
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8
+	processing begun of mesh:  col_trg_start
+		processing begun of material:  m_collisionbutton
+		registered as also a user of material:  m_collisionbutton
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_floor_pavilion
+		processing begun of material:  m_collisionfloor
+		registered as also a user of material:  m_collisionfloor
+		num positions      :  82
+		num normals        :  82
+		num tangents       :  0
+		num uvs            :  164
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  120
+		WARNING: # of 0 area faces found:  1
+	processing begun of mesh:  col_wall_pavilion
+		processing begun of material:  m_collisionwall
+		registered as also a user of material:  m_collisionwall
+		num positions      :  70
+		num normals        :  70
+		num tangents       :  0
+		num uvs            :  140
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  col_trg_stand_1
+		processing begun of material:  m_collisionbutton
+		registered as also a user of material:  m_collisionbutton
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_trg_stand_2
+		processing begun of material:  m_collisionbutton
+		registered as also a user of material:  m_collisionbutton
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+========= Writing of JSON file started =========
+	writing mesh:  obj_counter
+	writing mesh:  art_logo_1
+	writing mesh:  art_logo_2
+	writing mesh:  art_logo_3
+	writing mesh:  obj_wallstand_2
+	writing mesh:  obj_floorstand_2
+	writing mesh:  art_card_1
+	writing mesh:  obj_suportcard
+	writing mesh:  art_card_small_1
+	writing mesh:  arw_card_1
+	writing mesh:  obj_paper1_1
+	writing mesh:  obj_paper2_1
+	writing mesh:  obj_chair_kosmos_1
+	writing mesh:  art_pdf_1
+	writing mesh:  obj_paperholder_1
+	writing mesh:  obj_paper_1
+	writing mesh:  obj_table_1
+	writing mesh:  obj_tablesup_1
+	writing mesh:  arw_pdf_1
+	writing mesh:  obj_tablecommon_1
+	writing mesh:  obj_tablet_1
+	writing mesh:  art_chat_1
+	writing mesh:  obj_floorstand_5
+	writing mesh:  arw_chat_1
+	writing mesh:  obj_table_2
+	writing mesh:  obj_tablesup_2
+	writing mesh:  obj_cup_1
+	writing mesh:  obj_laptop_2
+	writing mesh:  art_link_1
+	writing mesh:  obj_wallstand_3
+	writing mesh:  obj_floorstand_3
+	writing mesh:  arw_link_1
+	writing mesh:  obj_wallstand_1
+	writing mesh:  obj_tv_1
+	writing mesh:  art_video_1
+	writing mesh:  obj_sofa_1
+	writing mesh:  obj_sofabase_1
+	writing mesh:  obj_sofabase_2
+	writing mesh:  obj_floorstand_1
+	writing mesh:  arw_video_1
+	writing mesh:  art_logo_4
+	writing mesh:  art_logo_5
+	writing mesh:  art_logo_6
+	writing mesh:  art_card_2
+	writing mesh:  art_card_small_2
+	writing mesh:  arw_card_2
+	writing mesh:  art_pdf_2
+	writing mesh:  arw_pdf_2
+	writing mesh:  art_link_2
+	writing mesh:  arw_link_2
+	writing mesh:  obj_smallcube_40
+	writing mesh:  obj_chair_85
+	writing mesh:  obj_idea_mp
+	writing mesh:  obj_idea_mp_holo
+	writing mesh:  obj_worldcube_1
+	writing mesh:  obj_corner_2
+	writing mesh:  obj_corner_3
+	writing mesh:  obj_tunelwide
+	writing mesh:  obj_structure_1
+	writing mesh:  obj_loop_1
+	writing mesh:  obj_tunel_1
+	writing mesh:  obj_loopwide_1
+	writing mesh:  obj_centralstation
+	writing mesh:  obj_earth
+	writing mesh:  obj_galaxy
+	writing mesh:  obj_fullcube_an_1
+	writing mesh:  obj_smallcube_43
+	writing mesh:  obj_smallcube_44
+	writing mesh:  obj_fullcube_an_2
+	writing mesh:  obj_smallcube_38
+	writing mesh:  obj_smallcube_34
+	writing mesh:  obj_smallcube_42
+	writing mesh:  obj_smallcube_28
+	writing mesh:  obj_smallcube_20
+	writing mesh:  obj_smallcube_13
+	writing mesh:  obj_smallcube_5
+	writing mesh:  obj_smallcube_37
+	writing mesh:  obj_smallcube_31
+	writing mesh:  obj_smallcube_16
+	writing mesh:  obj_smallcube_15
+	writing mesh:  obj_smallcube_10
+	writing mesh:  obj_smallcube_8
+	writing mesh:  obj_smallcube_45
+	writing mesh:  obj_fullcube_an_4
+	writing mesh:  obj_fullcube_an_3
+	writing mesh:  obj_rocket
+	writing mesh:  obj_smallcube_2
+	writing mesh:  obj_mediumcube_1
+	writing mesh:  obj_portal_1
+	writing mesh:  obj_portal_2
+	writing mesh:  obj_portal_3
+	writing mesh:  obj_shaderalpha_1
+	writing mesh:  obj_shader_1
+	writing mesh:  obj_window_1
+	writing mesh:  obj_shaderalpha_2
+	writing mesh:  obj_shader_2
+	writing mesh:  obj_hdrifake
+	writing mesh:  obj_fullcube_1
+	writing mesh:  obj_roof_2
+	writing mesh:  obj_walls_1
+	writing mesh:  obj_roof_1
+	writing mesh:  obj_structurestage
+	writing mesh:  obj_floor_1
+	writing mesh:  obj_wall_2
+	writing mesh:  obj_floormarble_2
+	writing mesh:  obj_floor_2
+	writing mesh:  obj_wallmetal_2
+	writing mesh:  obj_ceiling_2
+	writing mesh:  obj_glowboxes_1
+	writing mesh:  obj_eletricwall
+	writing mesh:  obj_glowboxes_2
+	writing mesh:  art_link_initial
+	writing mesh:  art_video_aud
+	writing mesh:  btn_auditorium
+	writing mesh:  arw_laptop
+	writing mesh:  arw_button
+	writing mesh:  arw_auditorium
+	writing mesh:  col_trg_auditorium
+	writing mesh:  col_floor_start
+	writing mesh:  col_tel_start
+	writing mesh:  col_wall_start
+	writing mesh:  col_tel_auditorium
+	writing mesh:  col_tel_pavilion
+	writing mesh:  col_tel_stand_1
+	writing mesh:  col_tel_stand_2
+	writing mesh:  col_floor_auditorium
+	writing mesh:  col_wall_auditorium
+	writing mesh:  col_trg_start
+	writing mesh:  col_floor_pavilion
+	writing mesh:  col_wall_pavilion
+	writing mesh:  col_trg_stand_1
+	writing mesh:  col_trg_stand_2
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.7493 secs

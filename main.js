@@ -27,6 +27,7 @@ var createScene = function () {
   function AnimationBlender(scene){
     var box = scene.getMeshByName("obj_portal_1")
     scene.beginAnimation(box, 0, 200, true);
+    }
 
   // import scene
   BABYLON.SceneLoader.ShowLoadingScreen = false;

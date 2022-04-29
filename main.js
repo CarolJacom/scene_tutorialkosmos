@@ -31,9 +31,9 @@ var createScene = function () {
     scene.beginAnimation(box1, 0, 200, true);
     var box2 = scene.getMeshByName("obj_portal_1")
     scene.beginAnimation(box2, 0, 200, true);
-    var box3 = scene.getMeshByName("obj_smallcube_28_1")
+    var box3 = scene.getMeshByName("arw_2")
     scene.beginAnimation(box3, 0, 200, true);
-    var box4 = scene.getMeshByName("obj_smallcube_47")
+    var box4 = scene.getMeshByName("arw_3")
     scene.beginAnimation(box4, 0, 200, true);
     var box5 = scene.getMeshByName("arw_1")
     scene.beginAnimation(box5, 0, 200, true);

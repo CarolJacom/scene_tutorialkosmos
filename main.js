@@ -27,6 +27,12 @@ var createScene = function () {
       function AnimationBlender(scene){
     var box = scene.getMeshByName("obj_fullcube_an_5")
     scene.beginAnimation(box, 0, 200, true);
+    var box = scene.getMeshByName("obj_fullcube_an_2")
+    scene.beginAnimation(box, 0, 200, true);
+    var box = scene.getMeshByName("obj_portal_1")
+    scene.beginAnimation(box, 0, 200, true);
+    var box = scene.getMeshByName("obj_smallcube_28_1")
+    scene.beginAnimation(box, 0, 200, true);
         
     }
 

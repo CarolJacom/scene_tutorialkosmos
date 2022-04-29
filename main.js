@@ -23,6 +23,10 @@ var createScene = function () {
   var camera = createFreeCamera(scene);
   /* Collisions */
   scene.collisionsEnabled = false;
+  
+  function AnimationBlender(scene){
+    var box = scene.getMeshByName("obj_portal_1")
+    scene.beginAnimation(box, 0, 200, true);
 
   // import scene
   BABYLON.SceneLoader.ShowLoadingScreen = false;
@@ -31,6 +35,7 @@ var createScene = function () {
     scene.activeCamera = camera;
     scene.gravity = new BABYLON.Vector3(0, -0.1, 0);
     scene.fogMode = BABYLON.Scene.FOGMODE_NONE;
+    AnimationBlender(scene);
     return scene;
 }
 

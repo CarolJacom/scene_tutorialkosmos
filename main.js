@@ -27,12 +27,50 @@ var createScene = function () {
       function AnimationBlender(scene){
     var box = scene.getMeshByName("obj_fullcube_an_5")
     scene.beginAnimation(box, 0, 200, true);
-    var box = scene.getMeshByName("obj_fullcube_an_2")
-    scene.beginAnimation(box, 0, 200, true);
-    var box = scene.getMeshByName("obj_portal_1")
-    scene.beginAnimation(box, 0, 200, true);
-    var box = scene.getMeshByName("obj_smallcube_28_1")
-    scene.beginAnimation(box, 0, 200, true);
+    var box1 = scene.getMeshByName("obj_fullcube_an_2")
+    scene.beginAnimation(box1, 0, 200, true);
+    var box2 = scene.getMeshByName("obj_portal_1")
+    scene.beginAnimation(box2, 0, 200, true);
+    var box3 = scene.getMeshByName("obj_smallcube_28_1")
+    scene.beginAnimation(box3, 0, 200, true);
+    var box4 = scene.getMeshByName("obj_smallcube_47")
+    scene.beginAnimation(box4, 0, 200, true);
+    var box5 = scene.getMeshByName("arw_1")
+    scene.beginAnimation(box5, 0, 200, true);
+    var box6 = scene.getMeshByName("obj_smallcube_43")
+    scene.beginAnimation(box6, 0, 200, true);
+    var box7 = scene.getMeshByName("obj_smallcube_44")
+    scene.beginAnimation(box7, 0, 200, true);
+    var box8 = scene.getMeshByName("obj_smallcube_45")
+    scene.beginAnimation(box8, 0, 200, true);
+    var box9 = scene.getMeshByName("obj_smallcube_47")
+    scene.beginAnimation(box9, 0, 200, true);
+    var box10 = scene.getMeshByName("obj_smallcube_48")
+    scene.beginAnimation(box10, 0, 200, true);
+    var box11 = scene.getMeshByName("obj_smallcube_49")
+    scene.beginAnimation(box11, 0, 200, true);
+    var box12 = scene.getMeshByName("obj_smallcube_50")
+    scene.beginAnimation(box12, 0, 200, true);
+    var box13 = scene.getMeshByName("obj_smallcube_51")
+    scene.beginAnimation(box13, 0, 200, true);
+    var box14 = scene.getMeshByName("obj_smallcube_52")
+    scene.beginAnimation(box14, 0, 200, true);
+    var box15 = scene.getMeshByName("obj_smallcube_53")
+    scene.beginAnimation(box15, 0, 200, true);
+    var box16 = scene.getMeshByName("obj_smallcube_54")
+    scene.beginAnimation(box16, 0, 200, true);
+    var box17 = scene.getMeshByName("obj_smallcube_55")
+    scene.beginAnimation(box17, 0, 200, true);
+    var box18 = scene.getMeshByName("obj_smallcube_56")
+    scene.beginAnimation(box18, 0, 200, true); 
+    var box19 = scene.getMeshByName("obj_smallcube_57")
+    scene.beginAnimation(box19, 0, 200, true);
+    var box20 = scene.getMeshByName("obj_smallcube_58")
+    scene.beginAnimation(box20, 0, 200, true);
+    var box21 = scene.getMeshByName("obj_smallcube_59")
+    scene.beginAnimation(box21, 0, 200, true);
+    var box22 = scene.getMeshByName("obj_smallcube_60")
+    scene.beginAnimation(box22, 0, 200, true);
         
     }
 

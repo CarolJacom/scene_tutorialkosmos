@@ -71,6 +71,14 @@ var createScene = function () {
     scene.beginAnimation(box21, 0, 200, true);
     var box22 = scene.getMeshByName("obj_smallcube_60")
     scene.beginAnimation(box22, 0, 200, true);
+    var box23 = scene.getMeshByName("obj_portal_3")
+    scene.beginAnimation(box23, 0, 200, true);
+    var box24 = scene.getMeshByName("obj_portal_4")
+    scene.beginAnimation(box24, 0, 200, true);
+    var box25 = scene.getMeshByName("obj_centralstation")
+    scene.beginAnimation(box25, 0, 200, true);
+    var box26 = scene.getMeshByName("obj_rocket")
+    scene.beginAnimation(box26, 0, 200, true);
         
     }
 
